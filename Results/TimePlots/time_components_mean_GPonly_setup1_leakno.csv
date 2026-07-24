@@ -1,0 +1,17 @@
+"setup","leakage","tar","method","Optimization","Inference"
+"1","no","yield","GP 1 full",6828.6588,55.7230666666666
+"1","no","yield","GP 2 full",12754.5847,70.0233000000003
+"1","no","yield","GP 4 full",7041.15053333333,52.5362000000002
+"1","no","yield","GP 5 full",12388.0172666667,64.2263000000001
+"1","no","yield","GP 5 additive",7648.9295,47.0177000000001
+"1","no","yield","GP 5 product",NA,NA
+"1","no","yield","GP 5 env-only",NA,NA
+"1","no","yield","GP 5 gen-only",NA,NA
+"1","no","prot","GP 1 full",6689.84493333333,46.6779333333332
+"1","no","prot","GP 2 full",12466.0694666667,60.3082666666666
+"1","no","prot","GP 4 full",6840.2421,52.2891333333333
+"1","no","prot","GP 5 full",12385.5679,62.9074
+"1","no","prot","GP 5 additive",7433.3971,43.6847000000001
+"1","no","prot","GP 5 product",NA,NA
+"1","no","prot","GP 5 env-only",NA,NA
+"1","no","prot","GP 5 gen-only",NA,NA
